@@ -1,0 +1,7 @@
+id=adaway_hosts
+name=AdAway-compatible systemless hosts
+version=v1
+versionCode=1
+author=akatuki0000
+updateJson=https://raw.githubusercontent.com/akatuki0000/adaway_hosts/main/update.json
+description=Provides a writable persistent /system/etc/hosts via bind mount of a /data file. Works on Magisk/KernelSU/SukiSU/APatch regardless of mount implementation (magic-mount, overlayfs, meta-overlayfs). Compatible with AdAway PR#4293 module layout.

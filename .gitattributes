@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.sh text eol=lf
+module.prop text eol=lf
+skip_mount text eol=lf
+hosts text eol=lf
